@@ -1,5 +1,5 @@
 ### Oi, eu sou o Davi! 👋
-Economista por formação atuando como analytics engineer. Utilizo de minha vivência como profissional de negócio que migrou para a área de dados para trazer os melhores benefícios para todos os times.
+Economista por formação atuando como analista de dados. Utilizo de minha vivência como profissional de negócio que migrou para a área de dados para trazer os melhores benefícios para todos os times.
 
 </div>
 <div>
