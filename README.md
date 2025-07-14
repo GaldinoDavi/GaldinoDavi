@@ -1,6 +1,8 @@
 ### Oi, eu sou o Davi! 👋
 Economista por formação atuando como analista de dados. Utilizo de minha vivência como profissional de negócio que migrou para a área de dados para trazer os melhores benefícios para todos os times.
 
+Reformulando repositórios o github, repositórios antigos foram deletados para focar em projetos futuros.
+
 </div>
 <div>
   <img height= "180cm" src="https://github-readme-stats.vercel.app/api?username=GaldinoDavi&show_icons=true&theme=radical")/>
